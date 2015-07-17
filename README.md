@@ -1,4 +1,4 @@
-![alt tag](https://github.com/jonatassantos/Space Invader 3D/blob/master/Space Invader 3D/img/jogo.png)
+![alt tag](https://github.com/jonatassantos/Space-Invader-3D/blob/master/Space%20Invader%203D/img/jogo.png)
 
 ####### controls #######
 
