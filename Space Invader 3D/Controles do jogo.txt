@@ -1,0 +1,13 @@
+####### Controles #######
+
+As teclas de setas movem a nave para: 
+	norte - sul - leste - oeste
+	
+As teclas PgUp e PgDn movem a nave:
+	cima - baixo
+	
+A tecla espaço:
+	dispara tiros
+	
+As teclas F1 e F2 troca de camera:
+	visão dentro da nave - visão fora da nave

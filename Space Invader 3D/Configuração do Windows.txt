@@ -1,0 +1,10 @@
+####### Configuração para Windows #######
+
+Incluir no compilador do DEV-C++     -lirrKlang
+
+Copiar para a pasta include do DEV-Cpp, toda as biblioteca .h da pasta include fornecida.
+
+Copiar para a pasta lib do DEV-Cpp, os dois arquivos da pasta lib\Win32-gcc fornecida.
+
+
+   Para mais informações:  http://www.ambiera.com/irrklang/docu/index.html
