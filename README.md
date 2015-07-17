@@ -1,11 +1,11 @@
 ![alt tag](https://github.com/jonatassantos/Space-Invader-3D/blob/master/Space%20Invader%203D/img/jogo.png)
 
-####### controls #######
+======= Controles =======
 
-The arrow keys move the aircraft to: north, south, east and west.
-
-The Page Up and Page Down keys move the aircraft to: up and down.
-
-The spacebar: Fires shots.
-
-The F1 and F2 exchange of camera: View inside the aircraft and view outside the aircraft.
+As teclas de setas movem a nave para: norte, sul, leste e oeste.
+	
+As teclas PgUp e PgDn movem a nave: cima e baixo.
+	
+A tecla espaço: atira.
+	
+As teclas F1 e F2 troca de camera: visão dentro da nave e visão fora da nave.
